@@ -18,4 +18,4 @@ zeroheightMapping:
   page: "${storyParentName}"
 
   # (optional, string) The tab within the page
-  tab: "Code "
+  tab: ""
