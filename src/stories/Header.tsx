@@ -14,7 +14,10 @@ export interface HeaderProps {
   onCreateAccount?: () => void;
 }
 
-export const Header = ({ user, onLogin, onLogout, onCreateAccount }: HeaderProps) => (
+
+export const Header = ({ user, onLogin, onLogout, onCreateAccount }: HeaderProps) => {
+  React.useEffect(() => {}, []);
+  return (
   <header>
     <div className="storybook-header">
       <div>
