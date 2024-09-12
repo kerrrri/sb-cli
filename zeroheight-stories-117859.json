@@ -1,0 +1,98 @@
+{
+  "styleguideId": "117859",
+  "storybookId": 1722343636491,
+  "title": "new sb",
+  "url": "https://main--647a06832bced7e7c531b99f.chromatic.com",
+  "stories": {
+    "autocompleteinput--docs": {
+      "id": "autocompleteinput--docs",
+      "name": "Docs",
+      "title": "AutocompleteInput",
+      "importPath": "./src/components/AutocompleteInput/AutocompleteInput.stories.tsx"
+    },
+    "autocompleteinput--basic": {
+      "id": "autocompleteinput--basic",
+      "name": "Basic",
+      "title": "AutocompleteInput",
+      "importPath": "./src/components/AutocompleteInput/AutocompleteInput.stories.tsx"
+    },
+    "autocompleteinput--disabled": {
+      "id": "autocompleteinput--disabled",
+      "name": "Disabled",
+      "title": "AutocompleteInput",
+      "importPath": "./src/components/AutocompleteInput/AutocompleteInput.stories.tsx"
+    },
+    "autocompleteinput--errored": {
+      "id": "autocompleteinput--errored",
+      "name": "Errored",
+      "title": "AutocompleteInput",
+      "importPath": "./src/components/AutocompleteInput/AutocompleteInput.stories.tsx"
+    },
+    "autocompleteinput--large-list": {
+      "id": "autocompleteinput--large-list",
+      "name": "Large List",
+      "title": "AutocompleteInput",
+      "importPath": "./src/components/AutocompleteInput/AutocompleteInput.stories.tsx"
+    },
+    "selectinput--docs": {
+      "id": "selectinput--docs",
+      "name": "Docs",
+      "title": "SelectInput",
+      "importPath": "./src/components/SelectInput/SelectInput.stories.tsx"
+    },
+    "selectinput--basic": {
+      "id": "selectinput--basic",
+      "name": "Basic",
+      "title": "SelectInput",
+      "importPath": "./src/components/SelectInput/SelectInput.stories.tsx"
+    },
+    "selectinput--disabled": {
+      "id": "selectinput--disabled",
+      "name": "Disabled",
+      "title": "SelectInput",
+      "importPath": "./src/components/SelectInput/SelectInput.stories.tsx"
+    },
+    "selectinput--errored": {
+      "id": "selectinput--errored",
+      "name": "Errored",
+      "title": "SelectInput",
+      "importPath": "./src/components/SelectInput/SelectInput.stories.tsx"
+    },
+    "selectinput--controlled": {
+      "id": "selectinput--controlled",
+      "name": "Controlled",
+      "title": "SelectInput",
+      "importPath": "./src/components/SelectInput/SelectInput.stories.tsx"
+    },
+    "textinput--docs": {
+      "id": "textinput--docs",
+      "name": "Docs",
+      "title": "TextInput",
+      "importPath": "./src/components/TextInput/TextInput.stories.tsx"
+    },
+    "textinput--basic": {
+      "id": "textinput--basic",
+      "name": "Basic",
+      "title": "TextInput",
+      "importPath": "./src/components/TextInput/TextInput.stories.tsx"
+    },
+    "textinput--disabled": {
+      "id": "textinput--disabled",
+      "name": "Disabled",
+      "title": "TextInput",
+      "importPath": "./src/components/TextInput/TextInput.stories.tsx"
+    },
+    "textinput--errored": {
+      "id": "textinput--errored",
+      "name": "Errored",
+      "title": "TextInput",
+      "importPath": "./src/components/TextInput/TextInput.stories.tsx"
+    },
+    "textinput--error-on-blur": {
+      "id": "textinput--error-on-blur",
+      "name": "Error On Blur",
+      "title": "TextInput",
+      "importPath": "./src/components/TextInput/TextInput.stories.tsx"
+    }
+  }
+}

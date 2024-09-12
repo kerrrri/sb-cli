@@ -1,0 +1,21 @@
+# ZeroHeight configuration file
+# Update the following mappings according to your styleguide setup
+
+# Styleguide ID should be a number
+styleguideId: 117859
+
+zeroheightMapping:
+  # (optional, string) The navigation path in your styleguide
+  navigation: "" # change to your styleguide's navigation
+
+  # The category within the navigation
+  category: "catco" # change to your styleguide's category
+
+  # (optional, string) The subcategory within the category, dynamically populated from Storybook
+  subcategory: ""
+
+  # The page in your styleguide, dynamically populated from Storybook
+  page: "${storyParentName}"
+
+  # (optional, string) The tab within the page
+  tab: "Code "
